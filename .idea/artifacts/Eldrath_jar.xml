@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Eldrath:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Eldrath_jar</output-path>
+    <root id="archive" name="Eldrath.jar">
+      <element id="module-output" name="Eldrath" />
+    </root>
+  </artifact>
+</component>
